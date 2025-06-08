@@ -1,7 +1,5 @@
 streamlit==1.33.0
+streamlit-authenticator==0.3.3
+pyyaml==6.0.1
 pandas
 numpy
-matplotlib
-seaborn
-streamlit-authenticator==0.2.3
-PyYAML
