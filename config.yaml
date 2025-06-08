@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    testuser:
+      email: test@example.com
+      name: Test User
+      password: '123'
+
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: loto_cookie
+
+preauthorized:
+  emails:
+    - test@example.com
